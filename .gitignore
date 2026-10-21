@@ -1,0 +1,29 @@
+# 依赖与构建产物
+node_modules/
+dist/
+*.tsbuildinfo
+
+# 打包好的扩展（体积大，走 Releases 或让用户自行构建）
+*.zip
+
+# 本地测试残留
+.edge-profile/
+.portable-test/
+.portable-profile/
+.e2e-downloads/
+*.log
+.asr-dump.json
+node_modules/.smoke/
+
+# public/engine 里只需要 vad-asr-1.12.36 的 4 个文件，其余是原始下载物
+public/engine/_src/
+public/engine/npm-sherpa-onnx-1.13.8/
+public/engine/vad-1.13.8/
+public/engine/vad-asr-1.12.36/*.data
+public/engine/.placeholder
+
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

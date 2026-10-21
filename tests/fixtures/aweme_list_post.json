@@ -1,0 +1,334 @@
+{
+  "status_code": 0,
+  "status_msg": "",
+  "has_more": 1,
+  "max_cursor": 1791800000000,
+  "min_cursor": 0,
+  "post_serial": 0,
+  "sort_type": 1,
+  "collects_status": 0,
+  "log_pb": {
+    "impr_id": "20261012204502F6B9C2D5E7A0B3F4C8E5"
+  },
+  "extra": {
+    "fatal_item_ids": null,
+    "now": 1791811235000
+  },
+  "aweme_list": [
+    {
+      "aweme_id": "7415234567890123500",
+      "aweme_type": 0,
+      "media_type": 4,
+      "create_time": 1791218400,
+      "desc": "口播忘词不用重录，一招救回来 #口播 #拍摄技巧",
+      "caption": "口播忘词不用重录，一招救回来 #口播 #拍摄技巧",
+      "is_ads": false,
+      "share_url": "https://www.iesdouyin.com/share/video/7415234567890123500/?region=CN&mid=7415234567890123500",
+      "author": {
+        "uid": "3305840498511072",
+        "sec_uid": "MS4wLjABAAAA-3rQhM0C7S4vD7U6d1Pm3eR8y2lq7iRv2Xw8q8ZkV5w",
+        "short_id": "2845167039",
+        "unique_id": "koubo_laoli",
+        "nickname": "口播老李",
+        "signature": "每天一条口播干货，关注我少走弯路",
+        "custom_verify": "",
+        "follower_count": 128000,
+        "total_favorited": 1560000,
+        "aweme_count": 316,
+        "avatar_thumb": {
+          "uri": "tos-cn-i-0813c001/8f1c2b3a4d5e6f708192a3b4c5d6e7f8~noop.image",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/8f1c2b3a4d5e6f708192a3b4c5d6e7f8~noop.image?x-expires=1792000000&x-signature=VvHk2Q8mS0k9RfVz2uT4aJb1QmQ%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_jpeg&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=9A1B2C3D4E5F60718293A4B5C6D7E8F9&sp=&dl=1792000000123456789"
+          ],
+          "width": 720,
+          "height": 720
+        }
+      },
+      "text_extra": [
+        {
+          "start": 15,
+          "end": 18,
+          "type": 1,
+          "hashtag_name": "口播",
+          "hashtag_id": "1623146218373128",
+          "is_commerce": false,
+          "line_idx": 0
+        },
+        {
+          "start": 19,
+          "end": 24,
+          "type": 1,
+          "hashtag_name": "拍摄技巧",
+          "hashtag_id": "1611766363701256",
+          "is_commerce": false,
+          "line_idx": 0
+        }
+      ],
+      "video": {
+        "duration": 29870,
+        "ratio": "1080p",
+        "play_addr": {
+          "uri": "v0200fg10000hu3m5m2tl10x5s7p4y15",
+          "url_list": [
+            "https://v26-web.douyinvod.com/3e4f5a6b7c8d9e0f1a2b3c4d5e6f7081/video/tos/cn/tos-cn-ve-15/oqYgIAF2nADQAiQfEJAAB1AAiBA/?a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1620&bt=1620&cs=0&ds=6&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=video_mp4&qs=0&rc=Zmc0Njw2Z2k4M2VkNTMzM0ApOTQyOjRmNTw1Nzc3ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8yYF81MTQwYF8xYS0%3D&s=4B5C6D7E8F90A1B2C3D4E5F60718293A&sp=&dl=1730000000444555666&vr_id=0&is_play_url=1&feature_id=&quality=hd&uilang=zh-CN&language=zh-CN",
+            "https://v3-dy-o-abtest.zjcdn.com/3e4f5a6b7c8d9e0f1a2b3c4d5e6f7081/video/tos/cn/tos-cn-ve-15/oqYgIAF2nADQAiQfEJAAB1AAiBA/?a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1620&bt=1620&cs=0&ds=6&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=video_mp4&qs=0&rc=Zmc0Njw2Z2k4M2VkNTMzM0ApOTQyOjRmNTw1Nzc3ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8yYF81MTQwYF8xYS0%3D&s=4B5C6D7E8F90A1B2C3D4E5F60718293A&sp=&dl=1730000000444555666&vr_id=0&is_play_url=1&feature_id=&quality=hd&uilang=zh-CN&language=zh-CN",
+            "https://www.iesdouyin.com/aweme/v1/play/?video_id=v0200fg10000hu3m5m2tl10x5s7p4y15&ratio=1080p&line=0"
+          ],
+          "url_key": "playwm",
+          "width": 1080,
+          "height": 1920,
+          "data_size": 6108224,
+          "file_hash": "v0200fg10000hu3m5m2tl10x5s7p4y15",
+          "file_cs": "2c3d4e5f60718293a4b5c6d7e8f90a1b"
+        },
+        "cover_addr": {
+          "uri": "tos-cn-p-0015/c4d5e6f708192a3b4c5d6e7f8091a2b3~noop.image",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/c4d5e6f708192a3b4c5d6e7f8091a2b3~noop.image?x-expires=1792000000&x-signature=ErTyUiOpAsDfGhJkLzXcVbNmQw%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_jpeg&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=5D6E7F8091A2B3C4D5E6F708192A3B4C&sp=&dl=1730000000444555666"
+          ],
+          "width": 1080,
+          "height": 1920
+        },
+        "origin_cover": {
+          "uri": "tos-cn-p-0015/d5e6f708192a3b4c5d6e7f8091a2b3c4~noop.image",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/d5e6f708192a3b4c5d6e7f8091a2b3c4~noop.image?x-expires=1792000000&x-signature=FgHjKlQwErTyUiOpAsDfGhJkLz%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_jpeg&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=6E7F8091A2B3C4D5E6F708192A3B4C5D&sp=&dl=1730000000444555666"
+          ],
+          "width": 1080,
+          "height": 1920
+        },
+        "bit_rate": [
+          {
+            "gear_name": "normal_1080_0",
+            "quality_type": 20,
+            "bit_rate": 1620000,
+            "is_bytevc1": 0,
+            "is_h265": 0,
+            "HDRType": 0,
+            "HDR_bit": "sdr",
+            "format": "mp4",
+            "video_extra": "",
+            "play_addr": {
+              "uri": "v0200fg10000hu3m5m2tl10x5s7p4y15",
+              "url_list": [
+                "https://v26-web.douyinvod.com/3e4f5a6b7c8d9e0f1a2b3c4d5e6f7081/video/tos/cn/tos-cn-ve-15/oqYgIAF2nADQAiQfEJAAB1AAiBA/?a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1620&bt=1620&cs=0&ds=6&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=video_mp4&qs=0&rc=Zmc0Njw2Z2k4M2VkNTMzM0ApOTQyOjRmNTw1Nzc3ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8yYF81MTQwYF8xYS0%3D&s=4B5C6D7E8F90A1B2C3D4E5F60718293A&sp=&dl=1730000000444555666&vr_id=0&is_play_url=1&feature_id=&quality=hd&uilang=zh-CN&language=zh-CN",
+                "https://v11.bytecdn.com/3e4f5a6b7c8d9e0f1a2b3c4d5e6f7081/video/tos/cn/tos-cn-ve-15/oqYgIAF2nADQAiQfEJAAB1AAiBA/?a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1620&bt=1620&cs=0&ds=6&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=video_mp4&qs=0&rc=Zmc0Njw2Z2k4M2VkNTMzM0ApOTQyOjRmNTw1Nzc3ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8yYF81MTQwYF8xYS0%3D&s=4B5C6D7E8F90A1B2C3D4E5F60718293A&sp=&dl=1730000000444555666&vr_id=0&is_play_url=1&feature_id=&quality=hd&uilang=zh-CN&language=zh-CN"
+              ],
+              "width": 1080,
+              "height": 1920,
+              "data_size": 6108224,
+              "file_hash": "v0200fg10000hu3m5m2tl10x5s7p4y15",
+              "url_key": "normal_1080_0"
+            }
+          },
+          {
+            "gear_name": "lowest_540_0",
+            "quality_type": 30,
+            "bit_rate": 512000,
+            "is_bytevc1": 0,
+            "is_h265": 0,
+            "HDRType": 0,
+            "HDR_bit": "sdr",
+            "format": "mp4",
+            "video_extra": "",
+            "play_addr": {
+              "uri": "v0200fg10000hu3m5m2tl10x5s7p4y15",
+              "url_list": [
+                "https://v3-dy-o-abtest.zjcdn.com/3e4f5a6b7c8d9e0f1a2b3c4d5e6f7081/video/tos/cn/tos-cn-ve-15/oqYgIAF2nADQAiQfEJAAB1AAiBA/?a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=512&bt=512&cs=0&ds=6&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=video_mp4&qs=0&rc=Zmc0Njw2Z2k4M2VkNTMzM0ApOTQyOjRmNTw1Nzc3ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8yYF81MTQwYF8xYS0%3D&s=7F8091A2B3C4D5E6F708192A3B4C5D6E&sp=&dl=1730000000444555666&vr_id=0&is_play_url=1&feature_id=&quality=sd&uilang=zh-CN&language=zh-CN",
+                "https://v26-web.douyinvod.com/3e4f5a6b7c8d9e0f1a2b3c4d5e6f7081/video/tos/cn/tos-cn-ve-15/oqYgIAF2nADQAiQfEJAAB1AAiBA/?a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=512&bt=512&cs=0&ds=6&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=video_mp4&qs=0&rc=Zmc0Njw2Z2k4M2VkNTMzM0ApOTQyOjRmNTw1Nzc3ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8yYF81MTQwYF8xYS0%3D&s=7F8091A2B3C4D5E6F708192A3B4C5D6E&sp=&dl=1730000000444555666&vr_id=0&is_play_url=1&feature_id=&quality=sd&uilang=zh-CN&language=zh-CN"
+              ],
+              "width": 540,
+              "height": 960,
+              "data_size": 1931520,
+              "file_hash": "v0200fg10000hu3m5m2tl10x5s7p4y15",
+              "url_key": "lowest_540_0"
+            }
+          }
+        ]
+      },
+      "music": {
+        "id": "7415234567890123501",
+        "mid": "7415234567890123501",
+        "title": "原声-口播老李",
+        "author": "口播老李",
+        "duration": 30,
+        "status": 1,
+        "is_original": true,
+        "is_commerce_music": false,
+        "is_pgc": false,
+        "owner_nickname": "口播老李",
+        "owner_id": "3305840498511072",
+        "sec_uid": "MS4wLjABAAAA-3rQhM0C7S4vD7U6d1Pm3eR8y2lq7iRv2Xw8q8ZkV5w",
+        "play_url": {
+          "uri": "tos-cn-od-0001/c3d4e5f60718293a4b5c6d7e8f90a1b2",
+          "url_list": [
+            "https://p3-music.douyinpic.com/tos-cn-od-0001/c3d4e5f60718293a4b5c6d7e8f90a1b2.mp3?x-expires=1792000000&x-signature=GhJkLzXcVbNmQwErTyUiOpAsDf%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=352&bt=352&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=audio_mp3&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=8091A2B3C4D5E6F708192A3B4C5D6E7F&sp=&dl=1730000000444555666"
+          ],
+          "width": 720,
+          "height": 720
+        }
+      },
+      "statistics": {
+        "aweme_id": "7415234567890123500",
+        "comment_count": 726,
+        "digg_count": 9145,
+        "collect_count": 1832,
+        "share_count": 455,
+        "forward_count": 6,
+        "admire_count": 132,
+        "exposure_count": 685214,
+        "live_watch_count": 0,
+        "play_count": 0
+      },
+      "status": {
+        "is_delete": false,
+        "allow_share": true,
+        "allow_comment": true,
+        "is_prohibited": false,
+        "private_status": 0,
+        "part_see": 0,
+        "in_reviewing": false,
+        "reviewed": 1
+      },
+      "log_pb": {
+        "impr_id": "20261012204502F6B9C2D5E7A0B3F4C8E5"
+      }
+    },
+    {
+      "aweme_id": "7403123456789012321",
+      "aweme_type": 0,
+      "media_type": 4,
+      "create_time": 1786531200,
+      "desc": "开场第一句永远别用“大家好”",
+      "caption": "开场第一句永远别用“大家好”",
+      "is_ads": false,
+      "share_url": "https://www.iesdouyin.com/share/video/7403123456789012321/?region=CN&mid=7403123456789012321",
+      "author": {
+        "uid": "3305840498511072",
+        "sec_uid": "MS4wLjABAAAA-3rQhM0C7S4vD7U6d1Pm3eR8y2lq7iRv2Xw8q8ZkV5w",
+        "short_id": "2845167039",
+        "unique_id": "koubo_laoli",
+        "nickname": "口播老李",
+        "signature": "每天一条口播干货，关注我少走弯路",
+        "custom_verify": "",
+        "follower_count": 128000,
+        "total_favorited": 1560000,
+        "aweme_count": 316,
+        "avatar_thumb": {
+          "uri": "tos-cn-i-0813c001/8f1c2b3a4d5e6f708192a3b4c5d6e7f8~noop.image",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/8f1c2b3a4d5e6f708192a3b4c5d6e7f8~noop.image?x-expires=1792000000&x-signature=VvHk2Q8mS0k9RfVz2uT4aJb1QmQ%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_jpeg&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=9A1B2C3D4E5F60718293A4B5C6D7E8F9&sp=&dl=1792000000123456789"
+          ],
+          "width": 720,
+          "height": 720
+        }
+      },
+      "text_extra": [],
+      "video": {
+        "duration": 18230,
+        "ratio": "720p",
+        "play_addr": {
+          "uri": "v0200fg10000iv4n6n3um21y6t8q5z26",
+          "url_list": [
+            "https://v26-web.douyinvod.com/4f5a6b7c8d9e0f1a2b3c4d5e6f708192/video/tos/cn/tos-cn-ve-15/osYgIAF2nADQAiQfEJAAB1AAiBA/?a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1104&bt=1104&cs=0&ds=6&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=video_mp4&qs=0&rc=Zmc0Njw3Z2k4M2VkNTMzM0ApPzIxOjRmNTw1Nzc2ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8yYF81MTQwYF8xYS0%3D&s=91A2B3C4D5E6F708192A3B4C5D6E7F80&sp=&dl=1730000000111222333&vr_id=0&is_play_url=1&feature_id=&quality=hd&uilang=zh-CN&language=zh-CN",
+            "https://v11.bytecdn.com/4f5a6b7c8d9e0f1a2b3c4d5e6f708192/video/tos/cn/tos-cn-ve-15/osYgIAF2nADQAiQfEJAAB1AAiBA/?a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1104&bt=1104&cs=0&ds=6&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=video_mp4&qs=0&rc=Zmc0Njw3Z2k4M2VkNTMzM0ApPzIxOjRmNTw1Nzc2ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8yYF81MTQwYF8xYS0%3D&s=91A2B3C4D5E6F708192A3B4C5D6E7F80&sp=&dl=1730000000111222333&vr_id=0&is_play_url=1&feature_id=&quality=hd&uilang=zh-CN&language=zh-CN"
+          ],
+          "url_key": "playwm",
+          "width": 720,
+          "height": 1280,
+          "data_size": 2516582,
+          "file_hash": "v0200fg10000iv4n6n3um21y6t8q5z26",
+          "file_cs": "3d4e5f60718293a4b5c6d7e8f90a1b2c"
+        },
+        "cover_addr": {
+          "uri": "tos-cn-p-0015/e6f708192a3b4c5d6e7f8091a2b3c4d5~noop.image",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/e6f708192a3b4c5d6e7f8091a2b3c4d5~noop.image?x-expires=1792000000&x-signature=JkLzXcVbNmQwErTyUiOpAsDfGh%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_jpeg&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=A2B3C4D5E6F708192A3B4C5D6E7F8091&sp=&dl=1730000000111222333"
+          ],
+          "width": 720,
+          "height": 1280
+        },
+        "origin_cover": {
+          "uri": "tos-cn-p-0015/f708192a3b4c5d6e7f8091a2b3c4d5e6~noop.image",
+          "url_list": [
+            "https://p3-sign.douyinpic.com/tos-cn-p-0015/f708192a3b4c5d6e7f8091a2b3c4d5e6~noop.image?x-expires=1792000000&x-signature=LzXcVbNmQwErTyUiOpAsDfGhJk%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_jpeg&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=B3C4D5E6F708192A3B4C5D6E7F8091A2&sp=&dl=1730000000111222333"
+          ],
+          "width": 720,
+          "height": 1280
+        },
+        "bit_rate": [
+          {
+            "gear_name": "normal_720_0",
+            "quality_type": 10,
+            "bit_rate": 1104000,
+            "is_bytevc1": 0,
+            "is_h265": 0,
+            "HDRType": 0,
+            "HDR_bit": "sdr",
+            "format": "mp4",
+            "video_extra": "",
+            "play_addr": {
+              "uri": "v0200fg10000iv4n6n3um21y6t8q5z26",
+              "url_list": [
+                "https://v26-web.douyinvod.com/4f5a6b7c8d9e0f1a2b3c4d5e6f708192/video/tos/cn/tos-cn-ve-15/osYgIAF2nADQAiQfEJAAB1AAiBA/?a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1104&bt=1104&cs=0&ds=6&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=video_mp4&qs=0&rc=Zmc0Njw3Z2k4M2VkNTMzM0ApPzIxOjRmNTw1Nzc2ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8yYF81MTQwYF8xYS0%3D&s=91A2B3C4D5E6F708192A3B4C5D6E7F80&sp=&dl=1730000000111222333&vr_id=0&is_play_url=1&feature_id=&quality=hd&uilang=zh-CN&language=zh-CN",
+                "https://v3-dy-o-abtest.zjcdn.com/4f5a6b7c8d9e0f1a2b3c4d5e6f708192/video/tos/cn/tos-cn-ve-15/osYgIAF2nADQAiQfEJAAB1AAiBA/?a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1104&bt=1104&cs=0&ds=6&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=video_mp4&qs=0&rc=Zmc0Njw3Z2k4M2VkNTMzM0ApPzIxOjRmNTw1Nzc2ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8yYF81MTQwYF8xYS0%3D&s=91A2B3C4D5E6F708192A3B4C5D6E7F80&sp=&dl=1730000000111222333&vr_id=0&is_play_url=1&feature_id=&quality=hd&uilang=zh-CN&language=zh-CN"
+              ],
+              "width": 720,
+              "height": 1280,
+              "data_size": 2516582,
+              "file_hash": "v0200fg10000iv4n6n3um21y6t8q5z26",
+              "url_key": "normal_720_0"
+            }
+          }
+        ]
+      },
+      "music": {
+        "id": "7403123456789012322",
+        "mid": "7403123456789012322",
+        "title": "原声-口播老李",
+        "author": "口播老李",
+        "duration": 18,
+        "status": 1,
+        "is_original": true,
+        "is_commerce_music": false,
+        "is_pgc": false,
+        "owner_nickname": "口播老李",
+        "owner_id": "3305840498511072",
+        "sec_uid": "MS4wLjABAAAA-3rQhM0C7S4vD7U6d1Pm3eR8y2lq7iRv2Xw8q8ZkV5w",
+        "play_url": {
+          "uri": "tos-cn-od-0001/d4e5f60718293a4b5c6d7e8f90a1b2c3",
+          "url_list": [
+            "https://p3-music.douyinpic.com/tos-cn-od-0001/d4e5f60718293a4b5c6d7e8f90a1b2c3.mp3?x-expires=1792000000&x-signature=NmQwErTyUiOpAsDfGhJkLzXcVb%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=352&bt=352&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=audio_mp3&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=C4D5E6F708192A3B4C5D6E7F8091A2B3&sp=&dl=1730000000111222333"
+          ],
+          "width": 720,
+          "height": 720
+        }
+      },
+      "statistics": {
+        "aweme_id": "7403123456789012321",
+        "comment_count": 1893,
+        "digg_count": 22470,
+        "collect_count": 4405,
+        "share_count": 1284,
+        "forward_count": 18,
+        "admire_count": 301,
+        "exposure_count": 1865420,
+        "live_watch_count": 0,
+        "play_count": 0
+      },
+      "status": {
+        "is_delete": false,
+        "allow_share": true,
+        "allow_comment": true,
+        "is_prohibited": false,
+        "private_status": 0,
+        "part_see": 0,
+        "in_reviewing": false,
+        "reviewed": 1
+      },
+      "log_pb": {
+        "impr_id": "20261012204502F6B9C2D5E7A0B3F4C8E5"
+      }
+    }
+  ]
+}

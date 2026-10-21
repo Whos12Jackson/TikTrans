@@ -1,0 +1,185 @@
+{
+  "status_code": 0,
+  "status_msg": "",
+  "min_cursor": 0,
+  "max_cursor": 0,
+  "has_more": 0,
+  "log_pb": {
+    "impr_id": "20261012203115B2D5E8F1A3C6D9E0B4A1"
+  },
+  "extra": {
+    "fatal_item_ids": null,
+    "now": 1791810002000
+  },
+  "aweme_detail": {
+    "aweme_id": "7415234567890123888",
+    "aweme_type": 68,
+    "media_type": 2,
+    "create_time": 1791477600,
+    "desc": "口播提词器设置的 3 个截图 #口播 #提词器 #自媒体干货",
+    "caption": "口播提词器设置的 3 个截图 #口播 #提词器 #自媒体干货",
+    "is_ads": false,
+    "share_url": "https://www.iesdouyin.com/share/note/7415234567890123888/?region=CN&mid=7415234567890123888",
+    "author": {
+      "uid": "3305840498511072",
+      "sec_uid": "MS4wLjABAAAA-3rQhM0C7S4vD7U6d1Pm3eR8y2lq7iRv2Xw8q8ZkV5w",
+      "short_id": "2845167039",
+      "unique_id": "koubo_laoli",
+      "nickname": "口播老李",
+      "signature": "每天一条口播干货，关注我少走弯路",
+      "custom_verify": "",
+      "follower_count": 128000,
+      "total_favorited": 1560000,
+      "aweme_count": 316,
+      "avatar_thumb": {
+        "uri": "tos-cn-i-0813c001/8f1c2b3a4d5e6f708192a3b4c5d6e7f8~noop.image",
+        "url_list": [
+          "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/8f1c2b3a4d5e6f708192a3b4c5d6e7f8~noop.image?x-expires=1792000000&x-signature=VvHk2Q8mS0k9RfVz2uT4aJb1QmQ%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_jpeg&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=9A1B2C3D4E5F60718293A4B5C6D7E8F9&sp=&dl=1792000000123456789"
+        ],
+        "width": 720,
+        "height": 720
+      }
+    },
+    "text_extra": [
+      {
+        "start": 14,
+        "end": 17,
+        "type": 1,
+        "hashtag_name": "口播",
+        "hashtag_id": "1623146218373128",
+        "is_commerce": false,
+        "line_idx": 0
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "type": 1,
+        "hashtag_name": "提词器",
+        "hashtag_id": "1612841759715335",
+        "is_commerce": false,
+        "line_idx": 0
+      },
+      {
+        "start": 24,
+        "end": 31,
+        "type": 1,
+        "hashtag_name": "自媒体干货",
+        "hashtag_id": "1620882572837891",
+        "is_commerce": false,
+        "line_idx": 0
+      }
+    ],
+    "video": {
+      "duration": 0,
+      "ratio": "720p",
+      "play_addr": {
+        "uri": "",
+        "url_list": [],
+        "width": 720,
+        "height": 1280,
+        "data_size": 0
+      },
+      "cover_addr": {
+        "uri": "tos-cn-i-0813c001/1f2e3d4c5b6a79887766554433221100~noop.image",
+        "url_list": [
+          "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/1f2e3d4c5b6a79887766554433221100~tplv-dy-aweme-images:q75.webp?x-expires=1792000000&x-signature=QaZwSxEdCrFvTgByHnUjMkOlPk%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_webp&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=8B9C0D1E2F3A4B5C6D7E8F90A1B2C3D4&sp=&dl=1730000000123456789"
+        ],
+        "width": 1080,
+        "height": 1920
+      },
+      "origin_cover": {
+        "uri": "tos-cn-i-0813c001/1f2e3d4c5b6a79887766554433221100~noop.image",
+        "url_list": [
+          "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/1f2e3d4c5b6a79887766554433221100~noop.image?x-expires=1792000000&x-signature=QaZwSxEdCrFvTgByHnUjMkOlPk%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_jpeg&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=8B9C0D1E2F3A4B5C6D7E8F90A1B2C3D4&sp=&dl=1730000000123456789"
+        ],
+        "width": 1080,
+        "height": 1920
+      },
+      "bit_rate": []
+    },
+    "images": [
+      {
+        "height": 1920,
+        "width": 1080,
+        "uri": "tos-cn-i-0813c001/1f2e3d4c5b6a79887766554433221100~noop.image",
+        "url_list": [
+          "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/1f2e3d4c5b6a79887766554433221100~tplv-dy-aweme-images:q75.webp?x-expires=1792000000&x-signature=QaZwSxEdCrFvTgByHnUjMkOlPk%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_webp&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=8B9C0D1E2F3A4B5C6D7E8F90A1B2C3D4&sp=&dl=1730000000123456789",
+          "https://p26-sign.douyinpic.com/tos-cn-i-0813c001/1f2e3d4c5b6a79887766554433221100~tplv-dy-aweme-images:q75.jpeg?x-expires=1792000000&x-signature=QaZwSxEdCrFvTgByHnUjMkOlPk%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_jpeg&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=8B9C0D1E2F3A4B5C6D7E8F90A1B2C3D4&sp=&dl=1730000000123456789"
+        ],
+        "download_url_list": [
+          "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/1f2e3d4c5b6a79887766554433221100~tplv-dy-aweme-images:q75.jpeg?x-expires=1792000000&x-signature=QaZwSxEdCrFvTgByHnUjMkOlPk%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_jpeg&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=8B9C0D1E2F3A4B5C6D7E8F90A1B2C3D4&sp=&dl=1730000000123456789"
+        ]
+      },
+      {
+        "height": 1920,
+        "width": 1080,
+        "uri": "tos-cn-i-0813c001/2a3b4c5d6e7f8091a2b3c4d5e6f70819~noop.image",
+        "url_list": [
+          "https://p9-sign.douyinpic.com/tos-cn-i-0813c001/2a3b4c5d6e7f8091a2b3c4d5e6f70819~tplv-dy-aweme-images:q75.webp?x-expires=1792000000&x-signature=ErTyUiOpAsDfGhJkLzXcVbNmQw%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_webp&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=0D1E2F3A4B5C6D7E8F90A1B2C3D4E5F6&sp=&dl=1730000000123456789",
+          "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/2a3b4c5d6e7f8091a2b3c4d5e6f70819~tplv-dy-aweme-images:q75.jpeg?x-expires=1792000000&x-signature=ErTyUiOpAsDfGhJkLzXcVbNmQw%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_jpeg&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=0D1E2F3A4B5C6D7E8F90A1B2C3D4E5F6&sp=&dl=1730000000123456789"
+        ],
+        "download_url_list": [
+          "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/2a3b4c5d6e7f8091a2b3c4d5e6f70819~tplv-dy-aweme-images:q75.jpeg?x-expires=1792000000&x-signature=ErTyUiOpAsDfGhJkLzXcVbNmQw%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_jpeg&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=0D1E2F3A4B5C6D7E8F90A1B2C3D4E5F6&sp=&dl=1730000000123456789"
+        ]
+      },
+      {
+        "height": 1920,
+        "width": 1080,
+        "uri": "tos-cn-i-0813c001/3b4c5d6e7f8091a2b3c4d5e6f708192a~noop.image",
+        "url_list": [
+          "https://p26-sign.douyinpic.com/tos-cn-i-0813c001/3b4c5d6e7f8091a2b3c4d5e6f708192a~tplv-dy-aweme-images:q75.webp?x-expires=1792000000&x-signature=SdFgHjKlQwErTyUiOpAsDfGhJk%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_webp&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=1E2F3A4B5C6D7E8F90A1B2C3D4E5F607&sp=&dl=1730000000123456789",
+          "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/3b4c5d6e7f8091a2b3c4d5e6f708192a~tplv-dy-aweme-images:q75.jpeg?x-expires=1792000000&x-signature=SdFgHjKlQwErTyUiOpAsDfGhJk%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_jpeg&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=1E2F3A4B5C6D7E8F90A1B2C3D4E5F607&sp=&dl=1730000000123456789"
+        ],
+        "download_url_list": [
+          "https://p3-sign.douyinpic.com/tos-cn-i-0813c001/3b4c5d6e7f8091a2b3c4d5e6f708192a~tplv-dy-aweme-images:q75.jpeg?x-expires=1792000000&x-signature=SdFgHjKlQwErTyUiOpAsDfGhJk%3D&a=6383&ch=5&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&lm=0&os=8&br=2406&bt=2406&cs=0&ds=3&ft=GN8g1XQ3zqQdm0aYZmo0~Q3fjKeeDaJb0tzJSDPMf&mime_type=image_jpeg&qs=0&rc=Zmc0NDw3Z2k4M2VkNTMzM0ApM2c6OTxoNDw1Nzc4ZmY3Z2c2bGF2cjRfXjFgLS1gLS1zczRvbF8xYS0%3D&s=1E2F3A4B5C6D7E8F90A1B2C3D4E5F607&sp=&dl=1730000000123456789"
+        ]
+      }
+    ],
+    "music": {
+      "id": "7415234567890123889",
+      "mid": "7415234567890123889",
+      "title": "原声-口播老李",
+      "author": "口播老李",
+      "album": "",
+      "duration": 0,
+      "status": 1,
+      "is_original": true,
+      "is_commerce_music": false,
+      "is_pgc": false,
+      "owner_nickname": "口播老李",
+      "owner_id": "3305840498511072",
+      "sec_uid": "MS4wLjABAAAA-3rQhM0C7S4vD7U6d1Pm3eR8y2lq7iRv2Xw8q8ZkV5w",
+      "play_url": {
+        "uri": "",
+        "url_list": [],
+        "width": 720,
+        "height": 720
+      }
+    },
+    "statistics": {
+      "aweme_id": "7415234567890123888",
+      "comment_count": 342,
+      "digg_count": 4210,
+      "collect_count": 1876,
+      "share_count": 521,
+      "forward_count": 3,
+      "admire_count": 58,
+      "exposure_count": 326541,
+      "live_watch_count": 0,
+      "play_count": 0
+    },
+    "status": {
+      "is_delete": false,
+      "allow_share": true,
+      "allow_comment": true,
+      "is_prohibited": false,
+      "private_status": 0,
+      "part_see": 0,
+      "in_reviewing": false,
+      "reviewed": 1
+    },
+    "log_pb": {
+      "impr_id": "20261012203115B2D5E8F1A3C6D9E0B4A1"
+    }
+  }
+}

@@ -1,0 +1,149 @@
+:root {
+  --bg: #f7f7f8;
+  --bg-card: #ffffff;
+  --bg-hover: #f0f0f2;
+  --fg: #1d1d20;
+  --fg-2: #6b6b73;
+  --fg-3: #9a9aa3;
+  --border: #e2e2e6;
+  --accent: #e5484d;
+  --accent-soft: #fdecec;
+  --line-active: #2f6fed;
+  --ok: #22c55e;
+  --warn: #eab308;
+  --fail: #ef4444;
+  --radius: 8px;
+  --mono: "Cascadia Mono", Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #17171a;
+    --bg-card: #1f1f23;
+    --bg-hover: #29292e;
+    --fg: #f0f0f2;
+    --fg-2: #a8a8b0;
+    --fg-3: #70707a;
+    --border: #313138;
+    --accent-soft: #3a1f21;
+    --line-active: #6ea0ff;
+  }
+}
+
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; margin: 0; }
+body {
+  font: 14px/1.6 -apple-system, "Segoe UI", "Microsoft YaHei", sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+}
+button {
+  font: inherit;
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  color: var(--fg);
+  border-radius: var(--radius);
+  padding: 5px 12px;
+  cursor: pointer;
+}
+button:hover { background: var(--bg-hover); }
+button.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+button.primary:hover { filter: brightness(1.06); }
+button.ghost { border-color: transparent; background: transparent; color: var(--fg-2); }
+button:disabled { opacity: .5; cursor: default; }
+input, textarea, select {
+  font: inherit;
+  color: var(--fg);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 6px 10px;
+}
+textarea { resize: vertical; }
+a { color: var(--line-active); }
+
+/* ---------- 布局 ---------- */
+.pane { display: flex; flex-direction: column; height: 100vh; }
+.pane-header {
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; gap: 8px;
+  background: var(--bg-card);
+}
+.pane-header .title { font-weight: 600; }
+.pane-body { flex: 1; overflow: auto; padding: 12px 14px; }
+.app-cols { display: grid; grid-template-columns: 280px 1fr 300px; gap: 0; height: 100%; }
+.app-col { overflow: auto; border-right: 1px solid var(--border); }
+.app-col:last-child { border-right: none; }
+.tabs { display: flex; gap: 4px; }
+.tabs button { border: none; background: none; color: var(--fg-2); padding: 6px 12px; border-radius: 6px; }
+.tabs button.active { background: var(--bg-hover); color: var(--fg); font-weight: 600; }
+
+/* ---------- 粘贴框 ---------- */
+.paste-box textarea { width: 100%; min-height: 62px; }
+.paste-row { display: flex; gap: 8px; margin-top: 8px; align-items: center; flex-wrap: wrap; }
+.paste-row input { flex: 1; min-width: 120px; }
+
+/* ---------- 行卡片 ---------- */
+.line-list { display: flex; flex-direction: column; gap: 6px; }
+.line-card {
+  display: flex; align-items: flex-start; gap: 10px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 8px 10px;
+}
+.line-card.selected { border-color: var(--line-active); box-shadow: 0 0 0 1px var(--line-active); }
+.line-card.playing { background: var(--accent-soft); }
+.line-card .ts {
+  font-family: var(--mono); font-size: 12px; color: var(--fg-2);
+  cursor: pointer; white-space: nowrap; padding-top: 2px;
+}
+.line-card.playing .ts { font-weight: 700; color: var(--fg); }
+.line-card .text { flex: 1; white-space: pre-wrap; word-break: break-word; min-height: 22px; }
+.line-card .text textarea { width: 100%; min-height: 44px; }
+.line-card .edited-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--warn); margin-top: 8px; }
+.line-card .label-chip {
+  width: 10px; height: 22px; border-radius: 3px; cursor: pointer;
+  background: var(--bg-hover); border: 1px dashed var(--border);
+  flex-shrink: 0; margin-top: 2px;
+}
+.line-card .ops { display: flex; flex-direction: column; gap: 4px; }
+.line-card .ops button { padding: 1px 6px; font-size: 12px; border: none; background: none; color: var(--fg-3); }
+.line-card .ops button:hover { color: var(--fg); }
+.ai-diff { border-bottom: 1px dashed var(--line-active); }
+
+/* ---------- 徽标 / 状态 ---------- */
+.badge { font-size: 12px; padding: 1px 8px; border-radius: 99px; border: 1px solid var(--border); color: var(--fg-2); }
+.badge.running { color: var(--line-active); border-color: var(--line-active); }
+.badge.failed { color: var(--fail); border-color: var(--fail); }
+.badge.done { color: var(--ok); border-color: var(--ok); }
+.badge.skipped { color: var(--fg-3); }
+
+/* ---------- 列表（视频 / 素材库） ---------- */
+.v-item { padding: 8px 10px; border-radius: var(--radius); cursor: pointer; border: 1px solid transparent; }
+.v-item:hover { background: var(--bg-hover); }
+.v-item.active { background: var(--bg-card); border-color: var(--border); }
+.v-item .t { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.v-item .m { font-size: 12px; color: var(--fg-2); display: flex; gap: 6px; }
+.lib-row { display: flex; gap: 10px; padding: 8px 10px; border-bottom: 1px solid var(--border); align-items: baseline; }
+.lib-row .meta { font-size: 12px; color: var(--fg-2); white-space: nowrap; }
+.filters { display: flex; gap: 8px; flex-wrap: wrap; padding: 10px 0; }
+.filters input, .filters select { min-width: 120px; }
+
+/* ---------- 设置 ---------- */
+.settings-form { max-width: 640px; display: flex; flex-direction: column; gap: 14px; }
+.settings-form label { display: flex; flex-direction: column; gap: 4px; font-size: 13px; color: var(--fg-2); }
+.settings-form .row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+.hint { font-size: 12px; color: var(--fg-3); }
+.progress { height: 8px; border-radius: 99px; background: var(--bg-hover); overflow: hidden; }
+.progress > div { height: 100%; background: var(--line-active); }
+
+/* ---------- 提示 / 帮助 ---------- */
+.toast {
+  position: fixed; left: 50%; bottom: 26px; transform: translateX(-50%);
+  background: var(--fg); color: var(--bg); padding: 8px 16px; border-radius: 99px;
+  font-size: 13px; z-index: 99;
+}
+.help-table { border-collapse: collapse; }
+.help-table td { border: 1px solid var(--border); padding: 4px 10px; font-size: 13px; }
+.empty { color: var(--fg-3); text-align: center; padding: 40px 0; }
