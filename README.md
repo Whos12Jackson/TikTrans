@@ -4,7 +4,7 @@
 
 **全程在你自己浏览器里跑**：语音识别用 WebAssembly 在本地完成，音频不上传、不经过任何服务器。
 
-![MV3](https://img.shields.io/badge/Chrome%2FEdge%20MV3-116%2B-brightgreen) ![离线](https://img.shields.io/badge/识别-全本地-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
+![MV3](https://img.shields.io/badge/Chrome%2FEdge%20MV3-116%2B-brightgreen) ![离线](https://img.shields.io/badge/识别-全本地-brightgreen)
 
 ---
 
@@ -96,13 +96,12 @@ Chrome/Edge MV3 + Vite + TypeScript + React 18 + Dexie 4；
 语音识别：[sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) WebAssembly
 （Silero VAD + [SenseVoice](https://github.com/FunAudioLLM/SenseVoice) int8 2024-07-17）。
 
-## 致谢与许可
+## 致谢
 
-- 本项目代码：MIT
 - [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)：Apache-2.0
 - [Silero VAD](https://github.com/snakers4/silero-vad)：MIT
-- SenseVoice 模型权重：见其模型仓库的 LICENSE，**分发前请自行确认条款**
-  （本仓库不含模型权重，离线包需自行构建或按模型页说明获取）
+- [SenseVoice](https://github.com/FunAudioLLM/SenseVoice) 模型权重：见其模型仓库的 LICENSE，
+  **分发前请自行确认条款**（本仓库不含模型权重，离线包需自行构建或按模型页说明获取）
 
 ## 已知限制
 

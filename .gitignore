@@ -27,3 +27,6 @@ public/engine/.placeholder
 Thumbs.db
 .idea/
 .vscode/
+
+# 交付说明（内部文档，不进仓库）
+交付说明.md
