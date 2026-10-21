@@ -20,13 +20,12 @@
 
 ## 安装
 
-> 安装包见仓库的 **Releases**（离线版 157MB 超过 git 单文件 100MB 限制，不能直接放进代码仓库）。
-> 若 Releases 里暂时没有，可按下方「开发」一节自行构建：
-> `node scripts/build-offline.mjs <版本号>`。
+> 安装包见 **[Releases](https://github.com/Whos12Jackson/TikTrans/releases)**（离线版 157MB 超过 git 单文件 100MB 限制，不能直接放进代码仓库）。
+> 若 Releases 里暂时没有，可按下方「开发」一节自行构建：`node scripts/build-offline.mjs <版本号>`。
 
 ### 方式一：离线版（推荐，装完即用）
 
-1. 下载 `TikTrans-mvp-v0.1.35-离线版.zip`（约 157MB，**模型已经打包在里面**）
+1. 下载 `TikTrans-mvp-v0.1.35-offline.zip`（约 157MB，**模型已经打包在里面**）
 2. 解压到任意目录（中文路径、带空格都可以）
 3. 浏览器打开 `edge://extensions`（Chrome 是 `chrome://extensions`）
 4. 打开右上角「开发人员模式」→「加载解压缩的扩展」→ 选中解压出来的目录
